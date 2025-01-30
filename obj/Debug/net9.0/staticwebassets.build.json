@@ -1,0 +1,1042 @@
+{
+  "Version": 1,
+  "Hash": "2Z1E/v8ucyrBQPvenW/NRy+syvVECT5j5/88ThyAj1c=",
+  "Source": "CrudZadigAPI",
+  "BasePath": "_content/CrudZadigAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "CrudZadigAPI\\wwwroot",
+      "Source": "CrudZadigAPI",
+      "ContentRoot": "C:\\prog-z\\CrudZadig\\CrudZadigAPI\\wwwroot\\",
+      "BasePath": "_content/CrudZadigAPI",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\prog-z\\CrudZadig\\CrudZadigAPI\\obj\\Debug\\net9.0\\compressed\\5yzpivhpbm-6fihajqhbj.gz",
+      "SourceId": "CrudZadigAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\prog-z\\CrudZadig\\CrudZadigAPI\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/CrudZadigAPI",
+      "RelativePath": "styles#[.{fingerprint=6fihajqhbj}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\prog-z\\CrudZadig\\CrudZadigAPI\\wwwroot\\styles.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "23ny94gjip",
+      "Integrity": "ol0AQ8Nb/0GODWza6W9Qd9ZHJzqVLw3MW9ig3z/ZMFo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\prog-z\\CrudZadig\\CrudZadigAPI\\wwwroot\\styles.css"
+    },
+    {
+      "Identity": "C:\\prog-z\\CrudZadig\\CrudZadigAPI\\obj\\Debug\\net9.0\\compressed\\byjksxojc0-0l6ovk52ap.gz",
+      "SourceId": "CrudZadigAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\prog-z\\CrudZadig\\CrudZadigAPI\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/CrudZadigAPI",
+      "RelativePath": "index#[.{fingerprint=0l6ovk52ap}]?.html.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\prog-z\\CrudZadig\\CrudZadigAPI\\wwwroot\\index.html",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "4kr5oc9slh",
+      "Integrity": "PI2lBGLElNO3+Vkp3vtOuOUlXH8zPkBzlVdFJJMALIU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\prog-z\\CrudZadig\\CrudZadigAPI\\wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\prog-z\\CrudZadig\\CrudZadigAPI\\obj\\Debug\\net9.0\\compressed\\esk965di6z-jbbe5mw373.gz",
+      "SourceId": "CrudZadigAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\prog-z\\CrudZadig\\CrudZadigAPI\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/CrudZadigAPI",
+      "RelativePath": "script#[.{fingerprint=jbbe5mw373}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\prog-z\\CrudZadig\\CrudZadigAPI\\wwwroot\\script.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "qto5ai4kec",
+      "Integrity": "EuH0Yt2IzGrZDqPG1mARrD/vaSJ35iVSgvscpSmecfE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\prog-z\\CrudZadig\\CrudZadigAPI\\wwwroot\\script.js"
+    },
+    {
+      "Identity": "C:\\prog-z\\CrudZadig\\CrudZadigAPI\\wwwroot\\index.html",
+      "SourceId": "CrudZadigAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\prog-z\\CrudZadig\\CrudZadigAPI\\wwwroot\\",
+      "BasePath": "_content/CrudZadigAPI",
+      "RelativePath": "index#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "0l6ovk52ap",
+      "Integrity": "rKlZsbpKWEX/k1CdBdF/+vF8s85Xw1n+hQ0fklXcK4U=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\prog-z\\CrudZadig\\CrudZadigAPI\\wwwroot\\script.js",
+      "SourceId": "CrudZadigAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\prog-z\\CrudZadig\\CrudZadigAPI\\wwwroot\\",
+      "BasePath": "_content/CrudZadigAPI",
+      "RelativePath": "script#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "jbbe5mw373",
+      "Integrity": "zy3UnYx6guVPnppQOPuWrvTHM3Q3OqHBOmeMBLroHq4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\script.js"
+    },
+    {
+      "Identity": "C:\\prog-z\\CrudZadig\\CrudZadigAPI\\wwwroot\\styles.css",
+      "SourceId": "CrudZadigAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\prog-z\\CrudZadig\\CrudZadigAPI\\wwwroot\\",
+      "BasePath": "_content/CrudZadigAPI",
+      "RelativePath": "styles#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "6fihajqhbj",
+      "Integrity": "fjJYM3V0TQKXgXeMDKARGOrgLNhdH6wlaw30OGf7GB8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\styles.css"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "index.0l6ovk52ap.html",
+      "AssetFile": "C:\\prog-z\\CrudZadig\\CrudZadigAPI\\obj\\Debug\\net9.0\\compressed\\byjksxojc0-0l6ovk52ap.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001904761905"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "524"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"PI2lBGLElNO3+Vkp3vtOuOUlXH8zPkBzlVdFJJMALIU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 30 Jan 2025 22:09:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"rKlZsbpKWEX/k1CdBdF/+vF8s85Xw1n+hQ0fklXcK4U=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0l6ovk52ap"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-rKlZsbpKWEX/k1CdBdF/+vF8s85Xw1n+hQ0fklXcK4U="
+        }
+      ]
+    },
+    {
+      "Route": "index.0l6ovk52ap.html",
+      "AssetFile": "C:\\prog-z\\CrudZadig\\CrudZadigAPI\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1408"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rKlZsbpKWEX/k1CdBdF/+vF8s85Xw1n+hQ0fklXcK4U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 30 Jan 2025 22:09:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0l6ovk52ap"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-rKlZsbpKWEX/k1CdBdF/+vF8s85Xw1n+hQ0fklXcK4U="
+        }
+      ]
+    },
+    {
+      "Route": "index.0l6ovk52ap.html.gz",
+      "AssetFile": "C:\\prog-z\\CrudZadig\\CrudZadigAPI\\obj\\Debug\\net9.0\\compressed\\byjksxojc0-0l6ovk52ap.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "524"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"PI2lBGLElNO3+Vkp3vtOuOUlXH8zPkBzlVdFJJMALIU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 30 Jan 2025 22:09:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0l6ovk52ap"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-PI2lBGLElNO3+Vkp3vtOuOUlXH8zPkBzlVdFJJMALIU="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "C:\\prog-z\\CrudZadig\\CrudZadigAPI\\obj\\Debug\\net9.0\\compressed\\byjksxojc0-0l6ovk52ap.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001904761905"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "524"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"PI2lBGLElNO3+Vkp3vtOuOUlXH8zPkBzlVdFJJMALIU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 30 Jan 2025 22:09:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"rKlZsbpKWEX/k1CdBdF/+vF8s85Xw1n+hQ0fklXcK4U=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-rKlZsbpKWEX/k1CdBdF/+vF8s85Xw1n+hQ0fklXcK4U="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "C:\\prog-z\\CrudZadig\\CrudZadigAPI\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1408"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rKlZsbpKWEX/k1CdBdF/+vF8s85Xw1n+hQ0fklXcK4U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 30 Jan 2025 22:09:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-rKlZsbpKWEX/k1CdBdF/+vF8s85Xw1n+hQ0fklXcK4U="
+        }
+      ]
+    },
+    {
+      "Route": "index.html.gz",
+      "AssetFile": "C:\\prog-z\\CrudZadig\\CrudZadigAPI\\obj\\Debug\\net9.0\\compressed\\byjksxojc0-0l6ovk52ap.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "524"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"PI2lBGLElNO3+Vkp3vtOuOUlXH8zPkBzlVdFJJMALIU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 30 Jan 2025 22:09:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-PI2lBGLElNO3+Vkp3vtOuOUlXH8zPkBzlVdFJJMALIU="
+        }
+      ]
+    },
+    {
+      "Route": "script.jbbe5mw373.js",
+      "AssetFile": "C:\\prog-z\\CrudZadig\\CrudZadigAPI\\obj\\Debug\\net9.0\\compressed\\esk965di6z-jbbe5mw373.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000760456274"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1314"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"EuH0Yt2IzGrZDqPG1mARrD/vaSJ35iVSgvscpSmecfE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 30 Jan 2025 22:09:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"zy3UnYx6guVPnppQOPuWrvTHM3Q3OqHBOmeMBLroHq4=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "jbbe5mw373"
+        },
+        {
+          "Name": "label",
+          "Value": "script.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-zy3UnYx6guVPnppQOPuWrvTHM3Q3OqHBOmeMBLroHq4="
+        }
+      ]
+    },
+    {
+      "Route": "script.jbbe5mw373.js",
+      "AssetFile": "C:\\prog-z\\CrudZadig\\CrudZadigAPI\\wwwroot\\script.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4993"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zy3UnYx6guVPnppQOPuWrvTHM3Q3OqHBOmeMBLroHq4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 30 Jan 2025 22:09:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "jbbe5mw373"
+        },
+        {
+          "Name": "label",
+          "Value": "script.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-zy3UnYx6guVPnppQOPuWrvTHM3Q3OqHBOmeMBLroHq4="
+        }
+      ]
+    },
+    {
+      "Route": "script.jbbe5mw373.js.gz",
+      "AssetFile": "C:\\prog-z\\CrudZadig\\CrudZadigAPI\\obj\\Debug\\net9.0\\compressed\\esk965di6z-jbbe5mw373.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1314"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"EuH0Yt2IzGrZDqPG1mARrD/vaSJ35iVSgvscpSmecfE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 30 Jan 2025 22:09:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "jbbe5mw373"
+        },
+        {
+          "Name": "label",
+          "Value": "script.js.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-EuH0Yt2IzGrZDqPG1mARrD/vaSJ35iVSgvscpSmecfE="
+        }
+      ]
+    },
+    {
+      "Route": "script.js",
+      "AssetFile": "C:\\prog-z\\CrudZadig\\CrudZadigAPI\\obj\\Debug\\net9.0\\compressed\\esk965di6z-jbbe5mw373.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000760456274"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1314"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"EuH0Yt2IzGrZDqPG1mARrD/vaSJ35iVSgvscpSmecfE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 30 Jan 2025 22:09:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"zy3UnYx6guVPnppQOPuWrvTHM3Q3OqHBOmeMBLroHq4=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-zy3UnYx6guVPnppQOPuWrvTHM3Q3OqHBOmeMBLroHq4="
+        }
+      ]
+    },
+    {
+      "Route": "script.js",
+      "AssetFile": "C:\\prog-z\\CrudZadig\\CrudZadigAPI\\wwwroot\\script.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4993"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zy3UnYx6guVPnppQOPuWrvTHM3Q3OqHBOmeMBLroHq4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 30 Jan 2025 22:09:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-zy3UnYx6guVPnppQOPuWrvTHM3Q3OqHBOmeMBLroHq4="
+        }
+      ]
+    },
+    {
+      "Route": "script.js.gz",
+      "AssetFile": "C:\\prog-z\\CrudZadig\\CrudZadigAPI\\obj\\Debug\\net9.0\\compressed\\esk965di6z-jbbe5mw373.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1314"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"EuH0Yt2IzGrZDqPG1mARrD/vaSJ35iVSgvscpSmecfE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 30 Jan 2025 22:09:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-EuH0Yt2IzGrZDqPG1mARrD/vaSJ35iVSgvscpSmecfE="
+        }
+      ]
+    },
+    {
+      "Route": "styles.6fihajqhbj.css",
+      "AssetFile": "C:\\prog-z\\CrudZadig\\CrudZadigAPI\\obj\\Debug\\net9.0\\compressed\\5yzpivhpbm-6fihajqhbj.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001626016260"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "614"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ol0AQ8Nb/0GODWza6W9Qd9ZHJzqVLw3MW9ig3z/ZMFo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 30 Jan 2025 21:46:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"fjJYM3V0TQKXgXeMDKARGOrgLNhdH6wlaw30OGf7GB8=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6fihajqhbj"
+        },
+        {
+          "Name": "label",
+          "Value": "styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-fjJYM3V0TQKXgXeMDKARGOrgLNhdH6wlaw30OGf7GB8="
+        }
+      ]
+    },
+    {
+      "Route": "styles.6fihajqhbj.css",
+      "AssetFile": "C:\\prog-z\\CrudZadig\\CrudZadigAPI\\wwwroot\\styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2019"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fjJYM3V0TQKXgXeMDKARGOrgLNhdH6wlaw30OGf7GB8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 30 Jan 2025 21:46:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6fihajqhbj"
+        },
+        {
+          "Name": "label",
+          "Value": "styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-fjJYM3V0TQKXgXeMDKARGOrgLNhdH6wlaw30OGf7GB8="
+        }
+      ]
+    },
+    {
+      "Route": "styles.6fihajqhbj.css.gz",
+      "AssetFile": "C:\\prog-z\\CrudZadig\\CrudZadigAPI\\obj\\Debug\\net9.0\\compressed\\5yzpivhpbm-6fihajqhbj.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "614"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ol0AQ8Nb/0GODWza6W9Qd9ZHJzqVLw3MW9ig3z/ZMFo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 30 Jan 2025 21:46:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6fihajqhbj"
+        },
+        {
+          "Name": "label",
+          "Value": "styles.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ol0AQ8Nb/0GODWza6W9Qd9ZHJzqVLw3MW9ig3z/ZMFo="
+        }
+      ]
+    },
+    {
+      "Route": "styles.css",
+      "AssetFile": "C:\\prog-z\\CrudZadig\\CrudZadigAPI\\obj\\Debug\\net9.0\\compressed\\5yzpivhpbm-6fihajqhbj.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001626016260"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "614"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ol0AQ8Nb/0GODWza6W9Qd9ZHJzqVLw3MW9ig3z/ZMFo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 30 Jan 2025 21:46:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"fjJYM3V0TQKXgXeMDKARGOrgLNhdH6wlaw30OGf7GB8=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-fjJYM3V0TQKXgXeMDKARGOrgLNhdH6wlaw30OGf7GB8="
+        }
+      ]
+    },
+    {
+      "Route": "styles.css",
+      "AssetFile": "C:\\prog-z\\CrudZadig\\CrudZadigAPI\\wwwroot\\styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2019"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fjJYM3V0TQKXgXeMDKARGOrgLNhdH6wlaw30OGf7GB8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 30 Jan 2025 21:46:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-fjJYM3V0TQKXgXeMDKARGOrgLNhdH6wlaw30OGf7GB8="
+        }
+      ]
+    },
+    {
+      "Route": "styles.css.gz",
+      "AssetFile": "C:\\prog-z\\CrudZadig\\CrudZadigAPI\\obj\\Debug\\net9.0\\compressed\\5yzpivhpbm-6fihajqhbj.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "614"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ol0AQ8Nb/0GODWza6W9Qd9ZHJzqVLw3MW9ig3z/ZMFo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 30 Jan 2025 21:46:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ol0AQ8Nb/0GODWza6W9Qd9ZHJzqVLw3MW9ig3z/ZMFo="
+        }
+      ]
+    }
+  ]
+}

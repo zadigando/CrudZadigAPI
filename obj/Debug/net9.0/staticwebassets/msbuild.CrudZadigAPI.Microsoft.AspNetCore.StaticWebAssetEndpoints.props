@@ -1,0 +1,40 @@
+﻿<Project>
+  <ItemGroup>
+    <StaticWebAssetEndpoint Include="_content/CrudZadigAPI/index.0l6ovk52ap.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\index.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"0l6ovk52ap"},{"Name":"integrity","Value":"sha256-rKlZsbpKWEX/k1CdBdF/\u002BvF8s85Xw1n\u002BhQ0fklXcK4U="},{"Name":"label","Value":"_content/CrudZadigAPI/index.html"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1408"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022rKlZsbpKWEX/k1CdBdF/\u002BvF8s85Xw1n\u002BhQ0fklXcK4U=\u0022"},{"Name":"Last-Modified","Value":"Thu, 30 Jan 2025 22:09:39 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CrudZadigAPI/index.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\index.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-rKlZsbpKWEX/k1CdBdF/\u002BvF8s85Xw1n\u002BhQ0fklXcK4U="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1408"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022rKlZsbpKWEX/k1CdBdF/\u002BvF8s85Xw1n\u002BhQ0fklXcK4U=\u0022"},{"Name":"Last-Modified","Value":"Thu, 30 Jan 2025 22:09:39 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CrudZadigAPI/script.jbbe5mw373.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\script.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"jbbe5mw373"},{"Name":"integrity","Value":"sha256-zy3UnYx6guVPnppQOPuWrvTHM3Q3OqHBOmeMBLroHq4="},{"Name":"label","Value":"_content/CrudZadigAPI/script.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"4993"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022zy3UnYx6guVPnppQOPuWrvTHM3Q3OqHBOmeMBLroHq4=\u0022"},{"Name":"Last-Modified","Value":"Thu, 30 Jan 2025 22:09:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CrudZadigAPI/script.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\script.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-zy3UnYx6guVPnppQOPuWrvTHM3Q3OqHBOmeMBLroHq4="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"4993"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022zy3UnYx6guVPnppQOPuWrvTHM3Q3OqHBOmeMBLroHq4=\u0022"},{"Name":"Last-Modified","Value":"Thu, 30 Jan 2025 22:09:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CrudZadigAPI/styles.6fihajqhbj.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\styles.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"6fihajqhbj"},{"Name":"integrity","Value":"sha256-fjJYM3V0TQKXgXeMDKARGOrgLNhdH6wlaw30OGf7GB8="},{"Name":"label","Value":"_content/CrudZadigAPI/styles.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"2019"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022fjJYM3V0TQKXgXeMDKARGOrgLNhdH6wlaw30OGf7GB8=\u0022"},{"Name":"Last-Modified","Value":"Thu, 30 Jan 2025 21:46:57 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CrudZadigAPI/styles.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\styles.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-fjJYM3V0TQKXgXeMDKARGOrgLNhdH6wlaw30OGf7GB8="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"2019"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022fjJYM3V0TQKXgXeMDKARGOrgLNhdH6wlaw30OGf7GB8=\u0022"},{"Name":"Last-Modified","Value":"Thu, 30 Jan 2025 21:46:57 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+  </ItemGroup>
+</Project>
