@@ -10,4 +10,6 @@ git clone https://github.com/zadigando/CrudZadigAPI.git
 cd CrudZadigAPI
 ```
 2️⃣ Execute a API
+```sh
 dotnet run
+```
